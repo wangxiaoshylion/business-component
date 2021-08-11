@@ -4,7 +4,7 @@
   "npmClient": "yarn",
   "command": {
     "version": {
-      "allowBranch": "dev"
+      "allowBranch": "master"
     },
     "publish": {
       "registry": "https://registry.npmjs.org/"
