@@ -1,16 +1,14 @@
 {
-  "packages": [
-    "packages/*"
-  ],
+  "packages": ["packages/*"],
+  "useWorkspaces": true,
+  "npmClient": "yarn",
   "command": {
     "version": {
-      "allowBranch": "master",
-      "includeMergedTags": true
+      "allowBranch": "dev"
     },
     "publish": {
       "registry": "https://registry.npmjs.org/"
     }
   },
-  "version": "1.0.0",
-  "lerna": "2.11.0"
+  "version": "1.0.0"
 }
