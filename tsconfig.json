@@ -4,7 +4,7 @@
     "module": "esnext",
     "moduleResolution": "node",
     "importHelpers": true,
-    "jsx": "react",
+    "jsx": "react-native",
     "esModuleInterop": true,
     "sourceMap": true,
     "removeComments": true,
