@@ -11,10 +11,10 @@
       "allowBranch": ["master"]
     },
     "publish": {
-      "graphType": "all"
+      "graphType": "all",
+      "verifyAccess": false
     }
   },
   "version": "independent",
-  "granularPathspec": false,
-  "ignoreChanges": ["**/*.md"]
+  "granularPathspec": false
 }
