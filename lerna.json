@@ -3,15 +3,18 @@
     "packages/*"
   ],
   "useWorkspaces": true,
-  "npmClient": "yarn",
   "command": {
+    "run": {
+      "npmClient": "yarn"
+    },
     "version": {
-      "allowBranch": "master"
+      "allowBranch": ["master"]
     },
     "publish": {
       "graphType": "all"
     }
   },
   "version": "independent",
-  "granularPathspec": false
+  "granularPathspec": false,
+  "ignoreChanges": ["**/*.md"]
 }
