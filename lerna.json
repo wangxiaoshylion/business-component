@@ -3,10 +3,8 @@
     "packages/*"
   ],
   "useWorkspaces": true,
+  "npmClient": "yarn",
   "command": {
-    "run": {
-      "npmClient": "yarn"
-    },
     "version": {
       "allowBranch": ["master"]
     },
@@ -15,6 +13,6 @@
       "verifyAccess": false
     }
   },
-  "version": "independent",
+  "version": "1.0.0",
   "granularPathspec": false
 }
