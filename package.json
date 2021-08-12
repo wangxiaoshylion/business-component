@@ -6,7 +6,7 @@
     "packages/*"
   ],
   "scripts": {
-    "init": "yarn && yarn run clean && yarn run bootstrap && yarn run build",
+    "init": "rm -rf node_modules && npm install && npm run clean && npm run bootstrap && npm run build",
     "start": "dumi dev",
     "bootstrap": "lerna bootstrap",
     "clean": "lerna clean --yes",
