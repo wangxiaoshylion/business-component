@@ -49,5 +49,7 @@
     "yorkie": "^2.0.0"
   },
   "version": "1.0.0",
-  "main": "index.js"
+  "main": "index.js",
+  "repository": "git@github.com:wangxiaoshylion/business-component.git",
+  "author": "wangxiaoshylion <wangxiaoshylion@gmail.com>"
 }

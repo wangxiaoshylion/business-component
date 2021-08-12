@@ -1,8 +1,8 @@
 {
   "name": "@wxshylion/test-demo",
-  "version": "2.0.1",
   "description": "测试发布",
   "license": "ISC",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
