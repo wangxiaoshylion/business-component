@@ -17,7 +17,7 @@
     "deploy": "yarn run docs:build && yarn run docs:deploy",
     "release": "yarn run build && yarn run publish",
     "release:git": "yarn run build && yarn run publish:git",
-    "publish": "lerna publish --no-commit-hooks",
+    "publish": "lerna publish",
     "publish:git": "lerna publish --skip-git",
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\"",
     "test": "umi-test",
