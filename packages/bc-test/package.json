@@ -24,24 +24,13 @@
     ]
   },
   "dependencies": {
-    "@babel/runtime": "^7.8.7",
-    "ahooks": "^2.10.2",
-    "classnames": "^2.3.1",
-    "copy-to-clipboard": "3.3.1",
-    "crypto-js": "^4.0.0",
-    "lodash": "^4.17.21",
-    "prop-types": "^15",
-    "react-beautiful-dnd": "^13.1.0",
-    "react-lottie": "^1.2.3"
+    "@babel/runtime": "^7.8.7"
   },
   "peerDependencies": {
     "antd": "^3",
-    "echarts": "^4",
-    "echarts-for-react": "^2",
     "react": ">= 16",
     "react-dom": ">= 16",
-    "react-router-dom": "^5.2.0",
-    "styled-components": "^5"
+    "react-router-dom": "^5.2.0"
   },
   "gitHead": "9711371dabd94f0235d3e1b395910f3654ee3814"
 }
