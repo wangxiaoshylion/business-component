@@ -1,0 +1,20 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "useWorkspaces": true,
+  "npmClient": "yarn",
+  "command": {
+    "version": {
+      "allowBranch": [
+        "master"
+      ]
+    },
+    "publish": {
+      "graphType": "all",
+      "verifyAccess": false
+    }
+  },
+  "version": "1.0.1",
+  "granularPathspec": false
+}
