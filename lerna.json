@@ -9,7 +9,7 @@
       "allowBranch": "master"
     },
     "publish": {
-      "registry": "https://registry.npmjs.org/"
+      "graphType": "all"
     }
   },
   "version": "2.0.0"
