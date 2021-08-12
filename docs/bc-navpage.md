@@ -33,7 +33,7 @@ $ npm i @wxshylion/bc-nav
 
 ### 基础用法
 
-<code src="../packages/bc-nav/demo/index1.tsx" />
+<code src="../packages/bc-navpage/demo/index1.tsx" />
 
 ## 参数一览表
 
