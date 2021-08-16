@@ -26,8 +26,8 @@
     "@babel/runtime": "^7.8.7",
     "ahooks": "^2.10.2",
     "lodash": "^4.17.21",
-    "react-lottie": "^1.2.3",
-    "prop-types": "^15"
+    "prop-types": "^15",
+    "react-lottie": "^1.2.3"
   },
   "peerDependencies": {
     "antd": "^4",
