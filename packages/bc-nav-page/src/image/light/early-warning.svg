@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4120" data-name="矩形 4120" class="cls-1" width="80" height="80" transform="translate(722 550)"/>
+    </clipPath>
+  </defs>
+  <g id="预测预警" class="cls-2" transform="translate(-722 -550)">
+    <path id="预测预警-2" data-name="预测预警" class="cls-1" d="M-6364,7511a8.01,8.01,0,0,1-8-8h16A8.011,8.011,0,0,1-6364,7511Zm24-12h-48a4,4,0,0,1-4-4,4,4,0,0,1,4-4v-22a23.912,23.912,0,0,1,1.529-8.447,23.929,23.929,0,0,1,4.215-7.132,24.018,24.018,0,0,1,14.256-8.089V7444a4,4,0,0,1,4-4,4,4,0,0,1,4,4v1.331a24.016,24.016,0,0,1,14.257,8.089,23.923,23.923,0,0,1,4.214,7.132A23.9,23.9,0,0,1-6340,7469v22a4.005,4.005,0,0,1,4,4A4,4,0,0,1-6340,7499Zm-25.331-24.2-2.121,11.2,10.454-16.8h-6.667l2.123-11.2h0L-6372,7474.8Z" transform="translate(7126.002 -6885.002)"/>
+  </g>
+</svg>

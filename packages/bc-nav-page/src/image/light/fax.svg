@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4112" data-name="矩形 4112" class="cls-1" width="80" height="80" transform="translate(854 181)"/>
+    </clipPath>
+  </defs>
+  <g id="传真" class="cls-2" transform="translate(-854 -181)">
+    <path id="传真-2" data-name="传真" class="cls-1" d="M-6326,7511h-42a2,2,0,0,1-2-2v-12a2,2,0,0,1,2-2h42a2,2,0,0,1,2,2v12A2,2,0,0,1-6326,7511Zm-48-6h-2a4.007,4.007,0,0,1-4-4v-36a4,4,0,0,1,4-4h2v18a4,4,0,0,0,4,4h46a4.007,4.007,0,0,0,4-4v-18h2a4,4,0,0,1,4,4v36a4,4,0,0,1-4,4h-2v-10a4.006,4.006,0,0,0-4-4h-46a4,4,0,0,0-4,4v10Zm48-26h-42a2,2,0,0,1-2-2v-32a2,2,0,0,1,2-2h42a2,2,0,0,1,2,2v32A2,2,0,0,1-6326,7479Zm-34-14a2,2,0,0,0-2,2,2,2,0,0,0,2,2h26a2,2,0,0,0,2-2,2,2,0,0,0-2-2Zm0-12a2,2,0,0,0-2,2,2,2,0,0,0,2,2h26a2,2,0,0,0,2-2,2,2,0,0,0-2-2Z" transform="translate(7241 -7256)"/>
+  </g>
+</svg>

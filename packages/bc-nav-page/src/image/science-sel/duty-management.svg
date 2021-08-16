@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(169,248,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #a9f8ff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4186" data-name="矩形 4186" class="cls-1" width="80" height="80" transform="translate(138 1174)"/>
+    </clipPath>
+  </defs>
+  <g id="zbgl_sel" class="cls-2" transform="translate(-138 -1174)">
+    <g id="值班管理1" transform="translate(0 419)">
+      <path id="减去_439" data-name="减去 439" class="cls-3" d="M-6356,7508h-32a4,4,0,0,1-4-4v-60a4,4,0,0,1,4-4h6v7.332a4,4,0,0,0,4,4h32a4,4,0,0,0,4-4V7440h6a4.005,4.005,0,0,1,4,4v32a19.828,19.828,0,0,0-12-4,20.023,20.023,0,0,0-20,20,19.852,19.852,0,0,0,8,16Z" transform="translate(6538 -6678)"/>
+      <path id="联合_545" data-name="联合 545" class="cls-4" d="M-6390,7456a2,2,0,0,1-2-2,2,2,0,0,1,2-2h12a2,2,0,0,1,2,2,2,2,0,0,1-2,2Zm0-12a2,2,0,0,1-2-2,2,2,0,0,1,2-2h32a2,2,0,0,1,2,2,2,2,0,0,1-2,2Z" transform="translate(6550 -6656)"/>
+      <circle id="椭圆_1090" data-name="椭圆 1090" class="cls-3" cx="16" cy="16" r="16" transform="translate(178 798)"/>
+      <path id="联合_546" data-name="联合 546" class="cls-4" d="M-6393,7458a2,2,0,0,1-2-2v-6h6a4,4,0,0,1,4-4h12a4,4,0,0,1,4,4h6v6a2,2,0,0,1-2,2Z" transform="translate(6555.001 -6688)"/>
+      <path id="减去_443" data-name="减去 443" class="cls-4" d="M-6356,7510h-32a4,4,0,0,1-4-4v-60a4,4,0,0,1,4-4h6v4h-4.5a1.5,1.5,0,0,0-1.5,1.5v57a1.5,1.5,0,0,0,1.5,1.5h26.5a20.1,20.1,0,0,0,4,4Zm24-32h0a19.973,19.973,0,0,0-4-2.334V7447.5a1.5,1.5,0,0,0-1.5-1.5h-4.5v-4h6a4,4,0,0,1,4,4v32Z" transform="translate(6538 -6680)"/>
+      <path id="联合_548" data-name="联合 548" class="cls-4" d="M-6390.071,7458a1.931,1.931,0,0,1-1.93-1.93,5.786,5.786,0,0,1,5.788-5.785h4.428a5.786,5.786,0,0,1,5.786,5.785,1.929,1.929,0,0,1-1.928,1.93Zm1.4-13.5A4.586,4.586,0,0,1-6384,7440a4.585,4.585,0,0,1,4.667,4.5A4.585,4.585,0,0,1-6384,7449,4.586,4.586,0,0,1-6388.667,7444.5Z" transform="translate(6578 -6635)"/>
+    </g>
+  </g>
+</svg>

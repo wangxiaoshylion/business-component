@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4117" data-name="矩形 4117" class="cls-1" width="80" height="80" transform="translate(296 550)"/>
+    </clipPath>
+  </defs>
+  <g id="应急保障" class="cls-2" transform="translate(-296 -550)">
+    <path id="应急保障-2" data-name="应急保障" class="cls-1" d="M-6362,7509.063h0a36.689,36.689,0,0,1-11.9-4.523,37.053,37.053,0,0,1-9.511-8.109,36.839,36.839,0,0,1-6.307-10.879,36.892,36.892,0,0,1-2.284-12.828l0-23.336a37.832,37.832,0,0,0,5,.335,36.914,36.914,0,0,0,25-9.722,36.9,36.9,0,0,0,25,9.722,37.5,37.5,0,0,0,5-.335v23.336a36.91,36.91,0,0,1-2.286,12.828,36.909,36.909,0,0,1-6.305,10.879,37.04,37.04,0,0,1-9.513,8.109,36.666,36.666,0,0,1-11.9,4.523Zm-4-22.341v2h8v-2Zm0-6v4h8v-4Zm0-11v9h8v-9h8l-12-12-12,12Z" transform="translate(6698 -6885)"/>
+  </g>
+</svg>

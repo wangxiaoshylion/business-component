@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4105" data-name="矩形 4105" class="cls-1" width="80" height="80" transform="translate(296 181)"/>
+    </clipPath>
+  </defs>
+  <g id="短信" class="cls-2" transform="translate(-296 -181)">
+    <path id="短信-2" data-name="短信" class="cls-1" d="M-6376,7502a4.006,4.006,0,0,1-4-4v-35.057l28.876,20.447a4.853,4.853,0,0,0,2.108.61,5.072,5.072,0,0,0,2.141-.61l28.874-20.447V7498a4.005,4.005,0,0,1-4,4Zm-8-12v0l-2,0a6.008,6.008,0,0,1-6-6v-38a6.008,6.008,0,0,1,6-6h50a6.008,6.008,0,0,1,6,6v2h-50a4,4,0,0,0-4,4v38Zm32.958-12.579L-6380,7456.94V7456a4,4,0,0,1,4-4h54a4,4,0,0,1,4,4v.939l-28.915,20.481a4.96,4.96,0,0,1-2.084.593A4.674,4.674,0,0,1-6351.044,7477.421Z" transform="translate(6691 -7250)"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(0,207,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #00cfff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4126" data-name="矩形 4126" class="cls-1" width="80" height="80" transform="translate(1439 994)"/>
+    </clipPath>
+  </defs>
+  <g id="传真1" class="cls-2" transform="translate(-1439 -994)">
+    <g id="传真1-2" data-name="传真1" transform="translate(-6.001 515)">
+      <rect id="矩形_3922" data-name="矩形 3922" class="cls-3" width="46" height="36" rx="2" transform="translate(1462 485)"/>
+      <rect id="矩形_3923" data-name="矩形 3923" class="cls-3" width="46" height="16" rx="2" transform="translate(1462 537)"/>
+      <path id="减去_335" data-name="减去 335" class="cls-4" d="M-6374,7517h-2a4,4,0,0,1-4-4v-36a4,4,0,0,1,4-4h2v18a4,4,0,0,0,4,4h46a4,4,0,0,0,4-4v-18h2a4,4,0,0,1,4,4v36a4,4,0,0,1-4,4h-2v-10a4,4,0,0,0-4-4h-46a4,4,0,0,0-4,4v10Z" transform="translate(7832 -6970)"/>
+      <rect id="矩形_3924" data-name="矩形 3924" class="cls-4" width="30" height="4" rx="2" transform="translate(1470 495)"/>
+      <rect id="矩形_3925" data-name="矩形 3925" class="cls-4" width="30" height="4" rx="2" transform="translate(1470 507)"/>
+    </g>
+  </g>
+</svg>

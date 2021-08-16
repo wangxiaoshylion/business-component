@@ -1,0 +1,140 @@
+@white-color: #ffffff;
+@light-blue: #94c5f7;
+@text-light-blue: #bcdefe;
+@text-dark-blue: #80cbff;
+@text-blue: #80cbff;
+@text-blue-hover: #a9f8ff;
+@icon-blue: #00d1fc;
+@icon-blue-hover: #b0f8ff;
+@blue-color-title: #00bbc7;
+
+.science-nav.main-nav-component {
+  // background: url(./../image/background.png) no-repeat center;
+  background: url(./../image/background.gif) no-repeat center;
+  background-size: cover;
+  header {
+    width: 100%;
+    height: 9vh;
+    font-size: 0.36em;
+    line-height: 7vh;
+    text-align: center;
+    i.logo {
+      display: inline-block;
+      width: 2.5vw;
+      height: 2.5vw;
+      margin: 0 0.5vw;
+      font-size: 0;
+      vertical-align: middle;
+      background: url('./../../image/scooper_logo.svg') no-repeat center;
+      // background-size: contain;
+      background-size: cover;
+      // height: 8vh;
+    }
+    .project-title {
+      display: inline-block;
+      color: @blue-color-title;
+      font-weight: 400;
+      font-family: Microsoft YaHei;
+      vertical-align: middle;
+      background-image: -webkit-gradient(
+        linear,
+        0 0,
+        0 bottom,
+        from(@blue-color-title),
+        to(@white-color)
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      // line-height: 8vh;
+    }
+  }
+  content {
+    position: absolute;
+    z-index: 2;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 91vh;
+    padding: 9vh 14vw 16vh 14vw;
+    & > .nav {
+      height: 50%;
+    }
+    &.nav-6 > .nav {
+      width: 33.33%;
+      .modules .nav-model {
+        width: 70%;
+        margin: 0 15%;
+      }
+    }
+    &.nav-7 > .nav {
+      width: 25%;
+      .modules .nav-model {
+        width: 80%;
+        margin: 0 10%;
+      }
+      &:nth-child(1) {
+        margin-left: 12.5%;
+      }
+      &:nth-child(3) {
+        margin-right: 12.5%;
+      }
+    }
+    &.nav-8 {
+      padding: 9vh 10vw 16vh 10vw;
+      & > .nav {
+        width: 25%;
+        .modules .nav-model {
+          width: 75%;
+          margin: 0 10%;
+        }
+      }
+    }
+  }
+  .modules {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    &:hover {
+      .nav-name {
+        color: @text-blue-hover;
+        background-image: none;
+        -webkit-background-clip: border-box;
+        -webkit-text-fill-color: aliceblue;
+      }
+      .nav-model .icon {
+        color: @icon-blue-hover;
+      }
+    }
+    .nav-model {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: calc(~'100% - 0.45em');
+      cursor: pointer;
+      opacity: 0.9;
+      .icon {
+        display: block;
+        width: 0.8em;
+        height: 0.8em;
+        color: @icon-blue;
+      }
+    }
+    .nav-name {
+      width: 100%;
+      color: @text-blue;
+      font-size: 0.3em;
+      text-align: center;
+      background-image: -webkit-gradient(
+        linear,
+        0 0,
+        0 bottom,
+        from(@text-light-blue),
+        to(@text-dark-blue)
+      );
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+  }
+}

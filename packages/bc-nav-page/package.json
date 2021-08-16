@@ -1,0 +1,39 @@
+{
+  "name": "@wxshylion/bc-nav-page",
+  "description": "UI导航页",
+  "license": "ISC",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "module": "dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHooks": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,less,md,json}": [
+      "prettier --write"
+    ],
+    "*.ts?(x)": [
+      "prettier --parser=typescript --write"
+    ]
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.8.7",
+    "ahooks": "^2.10.2",
+    "lodash": "^4.17.21",
+    "react-lottie": "^1.2.3",
+    "prop-types": "^15"
+  },
+  "peerDependencies": {
+    "antd": "^4",
+    "react": ">= 16",
+    "react-dom": ">= 16",
+    "react-router-dom": "^5.2.0"
+  },
+  "gitHead": "5de734e29b964876a75791fc1472a73927889982"
+}

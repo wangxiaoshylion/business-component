@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4101" data-name="矩形 4101" class="cls-1" width="80" height="80" transform="translate(441 369)"/>
+    </clipPath>
+  </defs>
+  <g id="拓扑" class="cls-2" transform="translate(-441 -369)">
+    <path id="拓扑-2" data-name="拓扑" class="cls-1" d="M-6388,7500a4,4,0,0,1-4-4v-4h74v4a4,4,0,0,1-4,4Zm-4-12v-44a4.005,4.005,0,0,1,4-4h66a4,4,0,0,1,4,4v44Zm48-14a6.007,6.007,0,0,0,6,6,6,6,0,0,0,6-6,6,6,0,0,0-6-6A6.007,6.007,0,0,0-6344,7474Zm-30-8v8c0,.043,0,.087,0,.128a2,2,0,0,0,2,1.871h22a2,2,0,0,0,2-2,2,2,0,0,0-2-2h-20v-6a2,2,0,0,0-2-2A2,2,0,0,0-6374,7466Zm12-12a2,2,0,0,0,2,2h20v6a2,2,0,0,0,2,2,2,2,0,0,0,2-2v-8a2,2,0,0,0-2-2h-22A2,2,0,0,0-6362,7454Zm-16,0a6.007,6.007,0,0,0,6,6,6.007,6.007,0,0,0,6-6,6.007,6.007,0,0,0-6-6A6.007,6.007,0,0,0-6378,7454Z" transform="translate(6836 -7061)"/>
+  </g>
+</svg>

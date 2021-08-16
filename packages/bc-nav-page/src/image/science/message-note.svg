@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(0,207,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #00cfff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4122" data-name="矩形 4122" class="cls-1" width="80" height="80" transform="translate(400 994)"/>
+    </clipPath>
+  </defs>
+  <g id="短信1" class="cls-2" transform="translate(-400 -994)">
+    <g id="短信1-2" data-name="短信1" transform="translate(0 128.999)">
+      <g id="组_184" data-name="组 184" transform="translate(0 380)">
+        <path id="减去_251" data-name="减去 251" class="cls-3" d="M-6383,7491a6.006,6.006,0,0,1-6-6v-38a6.007,6.007,0,0,1,6-6h50a6.007,6.007,0,0,1,6,6v2h-50a4,4,0,0,0-4,4v38h-2Z" transform="translate(6792 -6947)"/>
+        <path id="联合_404" data-name="联合 404" class="cls-3" d="M-6386,7490a4,4,0,0,1-4-4v-35.057l28.875,20.448a4.857,4.857,0,0,0,2.109.609,5.078,5.078,0,0,0,2.141-.609l28.875-20.448V7486a4.006,4.006,0,0,1-4,4Zm24.955-24.58L-6390,7444.94V7444a4,4,0,0,1,4-4h54a4,4,0,0,1,4,4v.94l-28.916,20.48a4.954,4.954,0,0,1-2.084.594A4.67,4.67,0,0,1-6361.043,7465.42Z" transform="translate(6805 -6934)"/>
+      </g>
+      <path id="减去_252" data-name="减去 252" class="cls-4" d="M-6390,7485.113h0v-40.17l28.958,20.478a4.72,4.72,0,0,0,2.043.594,5.013,5.013,0,0,0,2.084-.594l28.917-20.48v6l-28.875,20.448a5.142,5.142,0,0,1-2.141.609,4.941,4.941,0,0,1-2.109-.609L-6390,7450.943Z" transform="translate(6804.999 -6554)"/>
+      <path id="减去_354" data-name="减去 354" class="cls-4" d="M-6332,7580h-54a4,4,0,0,1-4-4v-42a4.005,4.005,0,0,1,4-4h54a4,4,0,0,1,4,4v42A4,4,0,0,1-6332,7580Zm-52-46a2,2,0,0,0-2,2v38a2,2,0,0,0,2,2h50a2,2,0,0,0,2-2v-38a2,2,0,0,0-2-2Z" transform="translate(6805.001 -6644)"/>
+    </g>
+  </g>
+</svg>

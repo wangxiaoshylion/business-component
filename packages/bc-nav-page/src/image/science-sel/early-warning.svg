@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(169,248,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #a9f8ff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4254" data-name="矩形 4254" class="cls-1" width="80" height="80" transform="translate(1181 1600)"/>
+    </clipPath>
+  </defs>
+  <g id="yjyc_sel" class="cls-2" transform="translate(-1181 -1600)">
+    <g id="预警预测1" transform="translate(1 -86)">
+      <path id="矩形_4248" data-name="矩形 4248" class="cls-3" d="M24,0h0A24,24,0,0,1,48,24V54a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V24A24,24,0,0,1,24,0Z" transform="translate(1196 1696)"/>
+      <g id="组_211" data-name="组 211" transform="translate(783 -294)">
+        <path id="减去_473" data-name="减去 473" class="cls-4" d="M-7127,7788h-48v-30a23.84,23.84,0,0,1,7.03-16.971A23.844,23.844,0,0,1-7151,7734a23.839,23.839,0,0,1,16.97,7.029A23.842,23.842,0,0,1-7127,7758v30Zm-24-50a20.024,20.024,0,0,0-20,20v29h40v-29A20.022,20.022,0,0,0-7151,7738Z" transform="translate(7588 -5744)"/>
+        <path id="矩形_4251" data-name="矩形 4251" class="cls-4" d="M4,0H4A4,4,0,0,1,8,4V8A0,0,0,0,1,8,8H0A0,0,0,0,1,0,8V4A4,4,0,0,1,4,0Z" transform="translate(433 1985)"/>
+        <rect id="矩形_4252" data-name="矩形 4252" class="cls-4" width="56" height="8" rx="4" transform="translate(409 2036)"/>
+        <path id="减去_474" data-name="减去 474" class="cls-4" d="M-6381,7458a8.009,8.009,0,0,1-8-8h16A8.01,8.01,0,0,1-6381,7458Z" transform="translate(6818 -5402)"/>
+        <path id="联合_568" data-name="联合 568" class="cls-4" d="M-6385.333,7456.8H-6392l10.456-16.8-2.122,11.2H-6377l-10.455,16.8Z" transform="translate(6821.001 -5437.002)"/>
+      </g>
+    </g>
+  </g>
+</svg>

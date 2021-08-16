@@ -24,16 +24,16 @@ group:
 ## 下载
 
 ```
-$ yarn add @wxshylion/bc-nav
+$ yarn add @wxshylion/bc-nav-page
 or
-$ npm i @wxshylion/bc-nav
+$ npm i @wxshylion/bc-nav-page
 ```
 
 ## 代码演示
 
 ### 基础用法
 
-<code src="../packages/bc-nav/demo/index1.tsx" />
+<code src="../packages/bc-nav-page/demo/index1.tsx" />
 
 ## 参数一览表
 

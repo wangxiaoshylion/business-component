@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(169,248,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #a9f8ff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4212" data-name="矩形 4212" class="cls-1" width="80" height="80" transform="translate(400 1174)"/>
+    </clipPath>
+  </defs>
+  <g id="yjya_sel" class="cls-2" transform="translate(-400 -1174)">
+    <g id="应急预案1" transform="translate(-4 39)">
+      <path id="减去_454" data-name="减去 454" class="cls-3" d="M-6336,7508h-52a4,4,0,0,1-4-4v-60a4,4,0,0,1,4-4h6v8a4,4,0,0,0,4,4h32a4,4,0,0,0,4-4v-8h6a4,4,0,0,1,4,4v60A4,4,0,0,1-6336,7508Z" transform="translate(6806 -6298)"/>
+      <path id="联合_556" data-name="联合 556" class="cls-4" d="M-6395,7458a2,2,0,0,1-2-2v-6h6a4,4,0,0,1,4-4h12a4,4,0,0,1,4,4h6v6a2,2,0,0,1-2,2Z" transform="translate(6825.001 -6308)"/>
+      <path id="减去_458" data-name="减去 458" class="cls-4" d="M-6336,7510h-52a4,4,0,0,1-4-4v-60a4,4,0,0,1,4-4h6v4h-4.5a1.5,1.5,0,0,0-1.5,1.5v57a1.5,1.5,0,0,0,1.5,1.5h49a1.5,1.5,0,0,0,1.5-1.5v-57a1.5,1.5,0,0,0-1.5-1.5h-4.5v-4h6a4.006,4.006,0,0,1,4,4v60A4.006,4.006,0,0,1-6336,7510Z" transform="translate(6806 -6300)"/>
+      <path id="联合_558" data-name="联合 558" class="cls-4" d="M-6379.112,7466.4H-6392l20.213-26.4-4.1,17.6H-6363l-20.212,26.4Z" transform="translate(6822.002 -6281)"/>
+    </g>
+  </g>
+</svg>

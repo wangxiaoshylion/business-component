@@ -1,0 +1,80 @@
+.main-nav-component {
+  header {
+    position: relative;
+    .operate-buttons {
+      position: absolute;
+      top: 2vh;
+      right: 2vw;
+      z-index: 10;
+      & > span {
+        float: left;
+        width: calc(36vw / 19.2);
+        height: calc(36vw / 19.2);
+        cursor: pointer;
+      }
+      .operate-icon-user {
+        margin-right: 1vw;
+      }
+      &.science {
+        .operate-icon-user {
+          background: url(./image/user_science.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/user_science_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+        .operate-icon-setting {
+          background: url(./image/setting_science.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/setting_science_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+      }
+      &.light {
+        .operate-icon-user {
+          background: url(./image/user_light.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/user_light_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+        .operate-icon-setting {
+          background: url(./image/setting_light.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/setting_light_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+      }
+      &.dark {
+        .operate-icon-user {
+          background: url(./image/user_dark.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/user_dark_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+        .operate-icon-setting {
+          background: url(./image/setting_dark.png) no-repeat center;
+          background-size: cover;
+          &:hover,
+          &:active {
+            background: url(./image/setting_dark_sel.png) no-repeat center;
+            background-size: cover;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(0,207,255,0.3);
+      }
+
+      .cls-4 {
+        fill: #00cfff;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4146" data-name="矩形 4146" class="cls-1" width="80" height="80" transform="translate(661 1600)"/>
+    </clipPath>
+  </defs>
+  <g id="动态感知1" class="cls-2" transform="translate(-661 -1600)">
+    <g id="动态感知1-2" data-name="动态感知1" transform="translate(-268 -121.536)">
+      <rect id="矩形_4039" data-name="矩形 4039" class="cls-3" width="14" height="20" rx="4" transform="translate(935 1772)"/>
+      <path id="联合_531" data-name="联合 531" class="cls-4" d="M-6390.586,7474.167a2,2,0,0,1,0-2.827l19.8-19.8a2,2,0,0,1,1.516-.583,1.994,1.994,0,0,1,1.514.583l14.485,14.485,16.825-16.824-3.542-3.542,10.606-.708-.707,10.607-3.529-3.529-18.139,18.139a2,2,0,0,1-2.587.206,2,2,0,0,1-.684-.448l-14.244-14.243-18.484,18.485a1.992,1.992,0,0,1-1.414.587A2,2,0,0,1-6390.586,7474.167Z" transform="translate(7328.333 -5714.414)"/>
+      <rect id="矩形_4043" data-name="矩形 4043" class="cls-4" width="14" height="36" rx="4" transform="translate(953 1756)"/>
+      <rect id="矩形_4044" data-name="矩形 4044" class="cls-3" width="14" height="28" rx="4" transform="translate(971 1764)"/>
+      <rect id="矩形_4045" data-name="矩形 4045" class="cls-4" width="14" height="42" rx="4" transform="translate(989 1750)"/>
+    </g>
+  </g>
+</svg>

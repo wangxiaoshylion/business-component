@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: rgba(255,255,255,0.3);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="矩形_4162" data-name="矩形 4162" class="cls-1" width="80" height="80" transform="translate(1707 2475)"/>
+    </clipPath>
+  </defs>
+  <g id="知识库2" class="cls-2" transform="translate(-1707 -2475)">
+    <g id="知识库2-2" data-name="知识库2" transform="translate(-2.999 1363)">
+      <rect id="矩形_3706" data-name="矩形 3706" class="cls-3" width="64" height="72" rx="4" transform="translate(1718 1116)"/>
+      <path id="减去_342" data-name="减去 342" class="cls-1" d="M-6332,7512h-56a4,4,0,0,1-4-4v-64a4.005,4.005,0,0,1,4-4h56a4.005,4.005,0,0,1,4,4v64A4,4,0,0,1-6332,7512Zm-54-68a2,2,0,0,0-2,2v60a2,2,0,0,0,2,2h52a2,2,0,0,0,2-2v-60a2,2,0,0,0-2-2Z" transform="translate(8110 -6324)"/>
+      <path id="矩形_3707" data-name="矩形 3707" class="cls-1" d="M4,0H56a0,0,0,0,1,0,0V8a0,0,0,0,1,0,0H4A4,4,0,0,1,0,4V4A4,4,0,0,1,4,0Z" transform="translate(1726 1172)"/>
+      <path id="联合_379" data-name="联合 379" class="cls-1" d="M-6391,7465.735a2.141,2.141,0,0,1-1-1.737v-24h20v24a2.139,2.139,0,0,1-1,1.737,2.073,2.073,0,0,1-2.078-.064l-5.844-4.358s-.023-.016-.066-.041-.086-.046-.133-.068a2.241,2.241,0,0,0-.879-.2,2.244,2.244,0,0,0-.911.219l-.066.034a1.075,1.075,0,0,0-.1.06l-5.845,4.358a2.324,2.324,0,0,1-1.147.326A1.749,1.749,0,0,1-6391,7465.735Z" transform="translate(8146 -6324)"/>
+    </g>
+  </g>
+</svg>
