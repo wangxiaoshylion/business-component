@@ -2,7 +2,7 @@
   "name": "@wxshylion/bc-test",
   "description": "测试发布",
   "license": "ISC",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "typings": "dist/index.d.ts",
