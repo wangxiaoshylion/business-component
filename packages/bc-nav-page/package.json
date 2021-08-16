@@ -2,7 +2,7 @@
   "name": "@wxshylion/bc-nav-page",
   "description": "UI导航页",
   "license": "ISC",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "files": [
